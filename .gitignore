@@ -1,3 +1,6 @@
+headless/screenshot/*.png
+headless/PDF/*.pdf
+
 # Logs
 logs
 *.log

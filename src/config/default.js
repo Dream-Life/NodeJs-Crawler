@@ -2,5 +2,6 @@ const path = require('path');
 
 module.exports = {
     screenshot: path.resolve(__dirname, '../../headless/screenshot'),
-    pdf: path.resolve(__dirname, '../../headless/PDF')
+    pdf: path.resolve(__dirname, '../../headless/PDF'),
+    mn: path.resolve(__dirname, '../../headless/mn')
 }
